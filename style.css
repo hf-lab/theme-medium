@@ -34,7 +34,7 @@ img {
 }
 
 .breadcrumbs a:hover {
-  color: #4a85db;
+  color: #1c9963;
 }
 
 .mainheading {
@@ -683,19 +683,19 @@ i.social {
 }
 
 .back-to-top {
-  margin: 0;
-  position: fixed;
-  bottom: 80px;
-  right: 15px;
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
-  text-align: center;
-  border-radius: 50%;
-  z-index: 100;
-  display: none;
-  text-decoration: none;
-  background-color: #4a85db;
+  margin:0;
+  position:fixed;
+  bottom:80px;
+  right:40px;
+  width:40px;
+  height:40px;
+  line-height:40px;
+  text-align:center;
+  border-radius:50%;
+  border:1px solid rgba(0,0,0,.18);
+  z-index:100;
+  display:none;
+  text-decoration:none;
 }
 
 .back-to-top i {
@@ -1632,8 +1632,8 @@ img.fullimage {
 }
 
 .btn-simple {
-  background-color: #4a85db;
-  border-color: #4a85db;
+  background-color: #1c9963;
+  border-color: #1c9963;
 }
 
 .prevnextlinks a,
@@ -1642,22 +1642,22 @@ img.fullimage {
 .post .post-top-meta .author-description a,
 article.page a,
 .alertbar a {
-  color: #4a85db;
+  color: #1c9963;
 }
 
 .post .btn.follow,
 .alertbar input[type="submit"] {
-  border-color: #4a85db;
+  border-color: #1c9963;
 }
 
 blockquote {
-  border-color: #4a85db;
+  border-color: #1c9963;
 }
 
 .entry-content input[type=submit],
 .alertbar input[type="submit"] {
-  background-color: #4a85db;
-  border-color: #4a85db;
+  background-color: #1c9963;
+  border-color: #1c9963;
 }
 
 p.sharecolour {
@@ -1675,7 +1675,7 @@ p.sharecolour {
 }
 
 footer.footer a {
-  color: #4a85db;
+  color: #1c9963;
 }
 
 .carousel-excerpt .fontlight,
@@ -1751,16 +1751,16 @@ h6 {
 }
 
 .navbar-light .navbar-brand:hover {
-  color: #4a85db;
+  color: #1c9963;
 }
 
 .customarea .btn.follow {
-  border-color: #4a85db;
-  color: #4a85db;
+  border-color: #1c9963;
+  color: #1c9963;
 }
 
 .search-form .search-submit {
-  background-color: #4a85db;
+  background-color: #1c9963;
 }
 
 .search-form .search-field {
