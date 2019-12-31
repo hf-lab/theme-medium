@@ -699,8 +699,8 @@ i.social {
 }
 
 .back-to-top i {
-  font-size: 20px;
-  color: #fff;
+  font-size:20px;
+  color:rgba(0,0,0,.3);
 }
 
 .link-dark {
