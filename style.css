@@ -1685,31 +1685,6 @@ body {
   color: #666666;
 }
 
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-weight: 700;
-  color: #111111;
-}
-
-.carousel-excerpt .title {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: 30px;
-  font-weight: 700;
-  text-transform: none;
-  color: #ffffff;
-}
-
 .carousel-excerpt .fontlight {
   font-size: 18px;
   font-weight: 400;
@@ -1720,11 +1695,6 @@ h6 {
   font-family: Merriweather, Georgia, serif;
   font-size: 26px;
   font-weight: 700;
-}
-
-.navbar-toggleable-md .navbar-collapse {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-weight: 400;
 }
 
 .article-post {
